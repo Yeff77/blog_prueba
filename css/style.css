@@ -18,3 +18,9 @@ body {
     background-color: cyan;
     font-size: 30px;
 }
+footer {
+    color: white;
+    background-color: indigo;
+    font-size: 20px;
+    border: 2px solid yellow;
+}
