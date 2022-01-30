@@ -17,6 +17,10 @@ body {
 #cabecera {
     background-color: cyan;
     font-size: 30px;
-    text-align: center;
-    border: 1px solid deeppink;
+}
+footer {
+    color: white;
+    background-color: indigo;
+    font-size: 20px;
+    border: 2px solid yellow;
 }
